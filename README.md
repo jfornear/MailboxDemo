@@ -19,7 +19,7 @@ Completed user stories:
  * &#10004; After 60 pts, the archive icon should start moving with the translation and the background should change to green.
  * &#10004; After 260 pts, the icon should change to the delete icon and the background color should change to red.
  * &#10004; User is taken to the tutorial screens upon entering the correct email/password combination.
- &#10004; Optional: Panning from the edge should reveal the menu
+* &#10004; Optional: Panning from the edge should reveal the menu
 
 
 
