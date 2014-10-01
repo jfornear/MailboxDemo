@@ -12,6 +12,7 @@
 		8CAC0BA919D3CB8600FE4469 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CAC0BA719D3CB8600FE4469 /* Main.storyboard */; };
 		8CAC0BAB19D3CB8600FE4469 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CAC0BAA19D3CB8600FE4469 /* Images.xcassets */; };
 		8CAC0BB719D3CB8600FE4469 /* MailboxDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAC0BB619D3CB8600FE4469 /* MailboxDemoTests.swift */; };
+		8CAC0BC119D3CBFD00FE4469 /* MailboxViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAC0BC019D3CBFD00FE4469 /* MailboxViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		8CAC0BB019D3CB8600FE4469 /* MailboxDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MailboxDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CAC0BB519D3CB8600FE4469 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8CAC0BB619D3CB8600FE4469 /* MailboxDemoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MailboxDemoTests.swift; sourceTree = "<group>"; };
+		8CAC0BC019D3CBFD00FE4469 /* MailboxViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MailboxViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				8CAC0BA719D3CB8600FE4469 /* Main.storyboard */,
 				8CAC0BAA19D3CB8600FE4469 /* Images.xcassets */,
 				8CAC0BA119D3CB8600FE4469 /* Supporting Files */,
+				8CAC0BC019D3CBFD00FE4469 /* MailboxViewController.swift */,
 			);
 			path = MailboxDemo;
 			sourceTree = "<group>";
@@ -210,6 +213,7 @@
 			files = (
 				8CAC0BA619D3CB8600FE4469 /* ViewController.swift in Sources */,
 				8CAC0BA419D3CB8600FE4469 /* AppDelegate.swift in Sources */,
+				8CAC0BC119D3CBFD00FE4469 /* MailboxViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
